@@ -1,9 +1,3 @@
-
----
-
-### Frontend `README.md`
-
-```md
 # Training Platform - Frontend
 
 This is the frontend for the Training Platform, built using **React** and **Material-UI**. It provides a user-friendly interface for managing courses, students, and schedules, and supports both admin and regular user roles.
